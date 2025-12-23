@@ -15,7 +15,7 @@ I focus on clean code, responsive design, and practical solutions that help busi
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Laravel & API Development
+- Advanced Laravel & API Development
 - React.js & Next.js
 - Performance Optimization & Best Practices
 
