@@ -11,6 +11,7 @@ I focus on clean code, responsive design, and practical solutions that help busi
 - Student / Education Management Systems
 - Company & Business Portfolio Websites
 - Custom Web Applications using PHP & Laravel
+- Accounting Project completed PHP& Laravel
 
 ---
 
